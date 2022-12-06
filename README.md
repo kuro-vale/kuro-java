@@ -7,5 +7,5 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current Java rank
 
-![Java Rank](https://shields.io/badge/-7%20kyu-white?logo=openjdk&style=for-the-badge&logoColor=b07219)
+![Java Rank](https://shields.io/badge/-6%20kyu-white?logo=openjdk&style=for-the-badge&logoColor=b07219)
 
